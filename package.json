@@ -1,0 +1,19 @@
+{
+  "name": "colors",
+  "version": "0.0.1",
+  "description": "Colors is the base for all coloring elements in a consistent way instead of using CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcbremerAtHomePuntNL/colors.ts.git"
+  },
+  "author": "Marc Bremer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcbremerAtHomePuntNL/colors.ts/issues"
+  },
+  "homepage": "https://github.com/marcbremerAtHomePuntNL/colors.ts#readme"
+}
